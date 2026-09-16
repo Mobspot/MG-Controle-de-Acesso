@@ -1,0 +1,14 @@
+# Fontes do editor (formato dc) e bundle antigo — não fazem parte do site publicado
+Site M&G.dc.html
+site-mg-src.html
+mgacessos.html
+support.js
+.thumbnail
+uploads/
+
+# Original pesado (2,4 MB); o site usa assets/img/showroom.jpg
+assets/img/showroom.png
+
+# Sistema
+Thumbs.db
+.DS_Store
